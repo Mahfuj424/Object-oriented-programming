@@ -1,5 +1,5 @@
 {
-  // constructor
+  // oop --> constructor
 
   class Animal {
     constructor(
